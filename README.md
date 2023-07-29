@@ -9,7 +9,7 @@
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp;Master of Science in **Data Science & Analytics** 
 <br>
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp;Bachelor of Engineering in **Computer Science & Technology**. <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;Interested in AI | Software Development | Big Data | Web3.0. 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;Interested in Artificial Intelligence | Software Development | Big Data | Web3.0. 
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Stephen SUN](https://t.me/StephenGo)**
 <br>
@@ -37,6 +37,7 @@
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
+<hr>
 ```dark
 // tools_I_use organized
 class About extends Me { 
