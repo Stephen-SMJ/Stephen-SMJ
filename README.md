@@ -39,7 +39,6 @@
 
 ```
 // tools_I_use organized
-
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : {"Python", "Javascript", "Java", "c++","PHP" },
@@ -50,6 +49,7 @@ class About extends Me {
     "OtherTools" : { "Git", "Photoshop", "Premiere", "Lightroom" }
   };
 }
+
 ```
 
 <hr></hr>
