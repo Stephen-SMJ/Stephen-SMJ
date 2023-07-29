@@ -37,8 +37,8 @@
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
-<hr>
-```dark
+
+```dart
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
