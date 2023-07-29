@@ -10,11 +10,8 @@
 <br>
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp;Bachelor of Engineering in **Computer Science & Technology**. <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;Interested in Artificial Intelligence | Software Development | Big Data | Web3.0. 
-<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Stephen SUN](https://t.me/StephenGo)**
-<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Linkedin: **[Stephen SUN](https://www.linkedin.com/in/maojun-sun-736894248/)**
-<br>
 
 <hr></hr>
 
