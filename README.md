@@ -4,8 +4,8 @@
 About ![](https://komarev.com/ghpvc/?username=Stephen-SMJ)
 ======
 - 🙋My name is Stephen. I am a zero-year Ph.D student from [Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
-- 🔍My research interests include Generative AI, Large Language Models, AI Agents, and Multi-agent collaboration.
-- 📖Before this, I got my Bachelor's degree in Computer Science and Master's degree in Data Science & Analytics.
+- 🔍My current research interests mainly focus on Generative AI, including Large Language Models, AI Agents, Multi-agent Collaboration Systems, and Diffusion Models, etc.
+- 📖Before this, I got my Bachelor's degree in Computer Science & Technology and Master's degree in Data Science & Analytics.
 - 🎠I enjoy writing technical blogs and sharing my moments in daily life at [小孙不够睡的Blog](https://stephen-smj.tech/).
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> More information about me can be found in [About me](https://stephen-smj.tech/about/).
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Feel free to reach me at: [Telegram](https://t.me/StephenGo) or s2371160103@163.com.
@@ -40,6 +40,8 @@ Tools I Use
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
+Activities
+======
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Stephen-SMJ)](https://github.com/ryo-ma/github-profile-trophy)
