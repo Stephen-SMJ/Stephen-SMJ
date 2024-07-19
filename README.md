@@ -1,29 +1,17 @@
-<div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+About
+======
+- 🙋My name is Stephen. I am a zero-year Ph.D student from [Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
+- 🔍My research interests encompass Generative AI, Natural Language Processing, Large Language Models, AI Agents, and Multi-agent collaboration.
+- 📖Before this, I got my Bachelor's degree in Computer Science & Technology and Master's degree in Data Science & Analytics.
+- 🎠I enjoy writing blogs and sharing my moments in daily life at [小孙不够睡的Blog](https://stephen-smj.tech/).
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> More information about me can be found in [About me](https://stephen-smj.tech/about/).
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Feel free to reach me at: [Telegram](https://t.me/StephenGo) or [s2371160103@163.com](s2371160103@163.com).
 
-<p><strong>Student at Hong Kong Polytechnic University.
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> &nbsp; Personal Technical Blog: **[小孙不够睡](https://stephen-smj.tech/)**
-<br>
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; Upcoming Phd student in **Generative AI** 
-<br>
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; Master of Science in **Data Science & Analytics** 
-<br>
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; Bachelor of Engineering in **Computer Science & Technology** 
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;Interested in Artificial Intelligence | Software Development | Big Data | Web3.0. <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Stephen SUN](https://t.me/StephenGo)** <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Linkedin: **[Stephen SUN](https://www.linkedin.com/in/maojun-sun-736894248/)** <br>
-
-<hr></hr>
+![](https://komarev.com/ghpvc/?username=Stephen-SMJ)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Stephen-SMJ.Stephen-SMJ&left_color=green&right_color=red)
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+Tools I Use
+======
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -51,17 +39,4 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
-
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
-</div>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
