@@ -1,12 +1,14 @@
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+there.+I+am+Stephen.;Nice+to+meet+you.)
+
 About ![](https://komarev.com/ghpvc/?username=Stephen-SMJ)
 ======
 - 🙋My name is Stephen. I am a zero-year Ph.D student from [Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
-- 🔍My research interests encompass Generative AI, Natural Language Processing, Large Language Models, AI Agents, and Multi-agent collaboration.
-- 📖Before this, I got my Bachelor's degree in Computer Science & Technology and Master's degree in Data Science & Analytics.
-- 🎠I enjoy writing blogs and sharing my moments in daily life at [小孙不够睡的Blog](https://stephen-smj.tech/).
+- 🔍My research interests include Generative AI, Large Language Models, AI Agents, and Multi-agent collaboration.
+- 📖Before this, I got my Bachelor's degree in Computer Science and Master's degree in Data Science & Analytics.
+- 🎠I enjoy writing technical blogs and sharing my moments in daily life at [小孙不够睡的Blog](https://stephen-smj.tech/).
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> More information about me can be found in [About me](https://stephen-smj.tech/about/).
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Feel free to reach me at: [Telegram](https://t.me/StephenGo) or [s2371160103@163.com](s2371160103@163.com).
-
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Feel free to reach me at: [Telegram](https://t.me/StephenGo) or s2371160103@163.com.
 
 
 Tools I Use
@@ -40,3 +42,6 @@ Tools I Use
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+Medals
+======
+[![trophy](https://github-profile-trophy.vercel.app/?username=Stephen-SMJ)](https://github.com/ryo-ma/github-profile-trophy)
