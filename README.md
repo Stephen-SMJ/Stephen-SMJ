@@ -18,7 +18,7 @@
 <hr></hr>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Stephen-SMJ&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Stephen-SMJ.Stephen-SMJ&left_color=green&right_color=red)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
