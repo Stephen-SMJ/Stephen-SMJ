@@ -1,4 +1,4 @@
-About
+About ![](https://komarev.com/ghpvc/?username=Stephen-SMJ)
 ======
 - 🙋My name is Stephen. I am a zero-year Ph.D student from [Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
 - 🔍My research interests encompass Generative AI, Natural Language Processing, Large Language Models, AI Agents, and Multi-agent collaboration.
@@ -7,7 +7,6 @@ About
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> More information about me can be found in [About me](https://stephen-smj.tech/about/).
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Feel free to reach me at: [Telegram](https://t.me/StephenGo) or [s2371160103@163.com](s2371160103@163.com).
 
-![](https://komarev.com/ghpvc/?username=Stephen-SMJ)
 
 
 Tools I Use
@@ -40,3 +39,5 @@ Tools I Use
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5jl5m0f08ig&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
