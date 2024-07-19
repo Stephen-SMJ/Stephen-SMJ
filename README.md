@@ -42,6 +42,4 @@ Tools I Use
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-Medals
-======
 [![trophy](https://github-profile-trophy.vercel.app/?username=Stephen-SMJ)](https://github.com/ryo-ma/github-profile-trophy)
