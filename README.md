@@ -40,5 +40,3 @@ Tools I Use
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
-<a href="https://www.revolvermaps.com/livestats/59ta53f6lgd/"><img src="//rf.revolvermaps.com/h/m/a/7/ff0000/256/0/59ta53f6lgd.png" width="512" height="256" alt="Map" style="border:0;"></a>
