@@ -3,11 +3,11 @@
 
 About ![](https://komarev.com/ghpvc/?username=Stephen-SMJ)
 ======
-- 🙋My name is Stephen. I am a zero-year Ph.D student from [Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
-- 🔍My current research interests mainly focus on Generative AI, including Large Language Models, AI Agents, Multi-agent Collaboration Systems, and Diffusion Models, etc.
+- 🙋My name is Stephen. I am a research assistant and zero-year Ph.D student at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
+- 🔍My current research interests mainly focus on Generative AI, including Large Language Models, Diffusion Models, AI Agents, Multi-agent Collaboration Systems, RAG, etc.
 - 📖Before this, I got my Bachelor's degree in Computer Science & Technology and Master's degree in Data Science & Analytics.
-- 🎠I enjoy writing technical blogs and sharing my moments in daily life at [小孙不够睡的Blog](https://stephen-smj.tech/).
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> More information about me can be found in [About me](https://stephen-smj.tech/about/).
+- 🎠I enjoy writing technical blogs and sharing my moments in daily life at [小孙不够睡的Blog](https://stephen-smj.tech/).
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Feel free to reach me at: [Telegram](https://t.me/StephenGo) or s2371160103@163.com.
 
 
