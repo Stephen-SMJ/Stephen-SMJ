@@ -3,7 +3,7 @@
 
 About ![](https://komarev.com/ghpvc/?username=Stephen-SMJ)
 ======
-- 🙋My name is SUN Maojun. I am a research assistant and zero-year Ph.D student at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
+- 🙋My name is SUN Maojun. I am a zero-year Ph.D student at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
 - 🔍My current research interests mainly focus on Generative AI, including Large Language Models, Diffusion Models, AI Agents, Multi-agent Collaboration Systems, RAG, etc.
 - 📖Before this, I got my Bachelor's degree in Computer Science & Technology and Master's degree in Data Science & Analytics.
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> More information about me can be found in [About me](https://stephen-smj.tech/about/).
