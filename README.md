@@ -3,9 +3,8 @@
 
 About ![](https://komarev.com/ghpvc/?username=Stephen-SMJ)
 ======
-- 🙋My name is SUN Maojun. I am a first-year Ph.D student at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
+- 🙋My name is Stephen. I am a first-year Ph.D student at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
 - 🔍My current research interests mainly focus on Generative AI, including Large Language Models, AI Agents, In-context Learning, AI4Science, etc.
-- 📖Before this, I got a Master's degree in Data Science & Analytics and a Bachelor's degree in Computer Science & Technology.
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> More information about me can be found in [About me](https://stephen-smj.tech/about/).
 - 🎠I enjoy writing technical blogs and sharing my moments in daily life at [小孙不够睡的Blog](https://stephen-smj.tech/).
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Feel free to reach me at: [Telegram](https://t.me/StephenGo) or s2371160103@163.com.
