@@ -41,6 +41,6 @@ Tools I Use
 
 Activities
 ======
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg?raw=true&v=2)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Stephen-SMJ)](https://github.com/ryo-ma/github-profile-trophy)
