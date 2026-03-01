@@ -43,4 +43,4 @@ Activities
 ======
 ![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg?raw=true&v=2)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Stephen-SMJ)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=Stephen-SMJ)](https://github.com/ryo-ma/github-profile-trophy)
